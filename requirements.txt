@@ -1,0 +1,10 @@
+aws-cdk-lib
+pandas
+numpy
+scikit-learn
+pylint
+pytest
+pytest-cov
+fastapi
+uvicorn
+httpx

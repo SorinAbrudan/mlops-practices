@@ -1,0 +1,5 @@
+__pycache__
+.gitignore
+Makefile
+README.md
+test_main.py
